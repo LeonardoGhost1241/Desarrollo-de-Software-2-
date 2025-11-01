@@ -359,4 +359,21 @@ Esto permite comprender la amplitud y complejidad inherentes a estas unidades. A
 ![alt text](image-14.png)
 
 ## Plan de accion (Roadmap)
+Un “Roadmap”, también conocido como plan de acción, es una
+representación visual y estratégica de la dirección en la que se planea llevar un producto en el transcurso del tiempo.
+
+Funciona como una herramienta para comunicar la visión general, las
+metas y las etapas clave de desarrollo en un formato fácilmente comprensible.
+
+importancia en el desarrollo agil
+- Comunicacion clara de la vision
+- Planificacion Estrategica
+- Flexibilidad y adaptabilidad
+- Gestion de Expectativas
+- Identificacion de Dependencias
+- Alineacion con objetivos Estrategicos
+- Priorizacion Informada
+
+Ejemplo de Roadmap
+![alt text](image-15.png)
 
